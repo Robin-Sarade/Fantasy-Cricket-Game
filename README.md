@@ -1,2 +1,2 @@
 # Fantasy-Cricket-Game
-I developed this project. It is written in Python and uses the PyQt5 library for the GUI. Users can create a new team, open a team, save a team, and view the team's points. The application uses a SQLite database to store the data.
+I developed a project written in Python that utilizes the PyQt5 library for its graphical user interface. The application enables users to create, open, and save teams, as well as view their points. The data is stored in a SQLite database.
